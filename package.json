@@ -1,0 +1,15 @@
+{
+  "name": "r2-oil-and-gas",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^35.2.1"
+  }
+}
